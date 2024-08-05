@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "866681503824",
+    "project_id": "push-notification-b1c43",
+    "storage_bucket": "push-notification-b1c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866681503824:android:299459cda196397de85155",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_m081Ri0BXbzwps8MY9sQIUs0F7DAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866681503824:android:5f111067669b1da5e85155",
+        "android_client_info": {
+          "package_name": "com.example.realtim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_m081Ri0BXbzwps8MY9sQIUs0F7DAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866681503824:android:56388b8b6bcd1b68e85155",
+        "android_client_info": {
+          "package_name": "com.example.realtime_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_m081Ri0BXbzwps8MY9sQIUs0F7DAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
